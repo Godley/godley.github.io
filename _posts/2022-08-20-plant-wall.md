@@ -61,7 +61,7 @@ The wall is also at a much easier height to manage things like herb and veg gard
 ### Irrigation
 The major issue (and the reason for this blog series) is there are 198 plants to water at full capacity. When we first bought the house, I was worried enough about maintaining our new house plants, as I was previously pretty good at killing plants. 
 
-[PIC HERE]
+![](/images/plants.jpeg)
 
 After we managed to kill quite a few plants my mum had kindly provided, (the majority gave up the ghost while we were on holiday), I put my foot down and insisted we get on with producing a functioning irrigation system before we added any more plants. 
 
