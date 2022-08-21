@@ -5,7 +5,7 @@ slug: plant-wall
 date: '2022-08-20'
 ---
 
-_This blog is the intro to a series of posts about our outdoor plant wall. I will later add some links here to the second post which will be about how we built the wall, and the third post which will be about how we built and automated (still a WIP!) the process of irrigating it._
+_This blog is the intro to a series of posts about our outdoor plant wall. I will add a link to a second half which will be about how we plan to automate (still a WIP!) the process of irrigating it._
 
 Last year, my partner and I bought our first house. This was the view from our living room:
 
@@ -90,4 +90,4 @@ If you buy 198 plants from a garden center, that's going to cost you a lot of mo
 We also bought 200 black 12 cm pots when we bought the wall - these came in at around 10p per pot on eBay.
 
 # Wrapping up
-That's probably enough information for one blog post! I'll be doing another two on how we built it and in particular the irrigation system soon!
+That's probably enough information for one blog post! I'll be doing another post on the irrigation system soon.
