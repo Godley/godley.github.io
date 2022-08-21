@@ -33,7 +33,9 @@ Our plant wall consists of [two wonderwall "self watering" kits](https://www.cro
 ### Self watering turned out to be a con
 By self watering, what Wonderwall mean is the classic "just add your own water". When you add water to the top line of planters, the plants should [bottom water](https://www.gardeningknowhow.com/houseplants/hpgen/bottom-watering-plants.htm) and as it fills past that level, there are two holes per planter which drip into the row below.
 
-[TODO video here]
+
+https://user-images.githubusercontent.com/4128117/185787998-5a454a86-0b6a-4aaa-8406-58cd765c7db6.mov
+
 
 I was initially pretty skeptical about whether this would ensure good plant health. Plants typically don't like being sat in water for long periods of time and can suffer from root rot (I had to remove and re-pot my monsterra because of this!).
 
