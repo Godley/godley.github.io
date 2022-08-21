@@ -28,19 +28,22 @@ It's not at all full at the moment, but the idea is it will get to the state of 
 ![](/images/livingwall1.jpg)
 
 
-Our plant wall consists of [two wonderwall "self watering" kits](https://www.crocus.co.uk/product/_/wonderwall-vertical-planting-kit-23m2-wall/classid.2000044785/?gclid=Cj0KCQjwr4eYBhDrARIsANPywCiYR4f_-wgoXnmRZDbuMefLGcOAvH5ycCkQ9R3gYAcAq5nsqSlOnE0aAgEdEALw_wcB), mounted on long wooden battens screwed into the wall at the beginning, middle and end, mounted in front of a big green tarpaulin to ensure if there are any leaks, nothing grows on the wall behind, mounted to the garage wall. The wall can at max hold 198 plants in 12cm plant pots. (You can also just put soil directly in the planters if you add a filter to the self watering holes).
+Our plant wall consists of [two wonderwall "self watering" kits](https://www.crocus.co.uk/product/_/wonderwall-vertical-planting-kit-23m2-wall/classid.2000044785/?gclid=Cj0KCQjwr4eYBhDrARIsANPywCiYR4f_-wgoXnmRZDbuMefLGcOAvH5ycCkQ9R3gYAcAq5nsqSlOnE0aAgEdEALw_wcB), mounted on long wooden battens screwed into the wall at the beginning, middle and end, with a big green tarpaulin behind the wall to ensure any water splashes don't damage the wall. The wall can at max hold 198 plants in 12cm plant pots. (You can also just put soil directly in the planters if you add a filter to the self watering holes).
 
-### Self watering turned out to be a con
+### Self watering turned out to be a (pretty obvious) con
 By self watering, what Wonderwall mean is the classic "just add your own water". When you add water to the top line of planters, the plants should [bottom water](https://www.gardeningknowhow.com/houseplants/hpgen/bottom-watering-plants.htm) and as it fills past that level, there are two holes per planter which drip into the row below.
 
-
-https://user-images.githubusercontent.com/4128117/185787998-5a454a86-0b6a-4aaa-8406-58cd765c7db6.mov
+<video width="400" controls autoplay>
+    <source src="/images/watering.mov" type="video/mp4">
+</video>
 
 
 I was initially pretty skeptical about whether this would ensure good plant health. Plants typically don't like being sat in water for long periods of time and can suffer from root rot (I had to remove and re-pot my monsterra because of this!).
 
 In actual fact I've found this is a much better solution than top-watering. The planters are designed with a stand for the plants to sit on, which ensures they are raised to just high enough that the plants can absorb more water without being completely submerged. 
-[TODO PIC]
+
+![](/images/internal.jpg)
+
 
 I did find that you have to push hard to ensure the plants are in the right position below row 1 - 12cm is pretty much the max size you can fit in and still have the design work as intended.
 
@@ -65,7 +68,7 @@ The major issue (and the reason for this blog series) is there are 198 plants to
 
 After we managed to kill quite a few plants my mum had kindly provided, (the majority gave up the ghost while we were on holiday), I put my foot down and insisted we get on with producing a functioning irrigation system before we added any more plants. 
 
-Without an irrigation system, we fould we needed to water all the plants at least once a day, and potentially twice a day in the height of summer, in particular 2022's heat waves. Plants in containers need more water because there isn't ground water for them to draw on, only whatever water is in the soil they are planted in. This isn't such a problem when we're here, but whilst on holiday it's not really fair to ask our family and friends to pop in every single day to make sure they stay alive.
+Without an irrigation system, we found we needed to water all the plants at least once a day, and potentially twice a day in the height of summer, in particular 2022's heat waves. Plants in containers need more water because there isn't ground water for them to draw on, only whatever water is in the soil they are planted in. This isn't such a problem when we're here, but whilst on holiday it's not really fair to ask our family and friends to pop in every single day to make sure they stay alive.
 
 ### Watering in a heatwave
 In a heatwave there is always talk of hosepipe bans. 
@@ -79,9 +82,12 @@ The bulk of our first lot of flowers were pansies and primroses. I later added s
 
 Strawberries seem to also work well and it's great being able to just stick another pot of soil in whenever the current strawberry plants produce new runners (one of the ways strawberries produce offspring is to literally create a whole new plant for you by having a trailing limb with some leaves on it).
 
-I've had moderate success splitting plants by just dividing them with my hands - herbs are super easy because they typically _are_ lots of plants shoved into one pot, but grasses I had to divide with a kitchen knife due to the root block being very thick, and I killed half a lavender plant trying to do the very same thing.
+I've had moderate success splitting plants by just dividing them with my hands - herbs are super easy because they typically _are_ lots of separate plants shoved into one pot, but grasses I had to divide with a kitchen knife due to the root block being very thick, and I killed half a lavender plant trying to do the very same thing.
 
 ### Expense
 If you buy 198 plants from a garden center, that's going to cost you a lot of money. We bought 5 in one day and that cost £40. The bulk of our plants going forward will be [plug plants](https://www.brooksidenursery.co.uk/what-are-plug-plants.html) which we will be bringing to full size in our propagator (basically a mini greenhouse) before putting them into 12cm pots.
 
 We also bought 200 black 12 cm pots when we bought the wall - these came in at around 10p per pot on eBay.
+
+# Wrapping up
+That's probably enough information for one blog post! I'll be doing another two on how we built it and in particular the irrigation system soon!
