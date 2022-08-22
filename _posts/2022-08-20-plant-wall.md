@@ -16,9 +16,7 @@ The major issues with our garden were:
 2. The major thing you see is a view of a massive shed, which we don't need, because we've got a garage right next to it.
 3. The other thing your eye is drawn to is our garage wall.
 
-Steps 1 and 2 were pretty boring - my dad dismantled the shed, then enlisted my partner and my brother in law to move it to my sister's garden.
-
-For step 2, we had the entire garden redone professionally...which leaves issue 3, which is a much more difficult task.
+Steps 1 and 2 were pretty boring - my dad dismantled the shed, then enlisted my partner and my brother in law to move it to my sister's garden. We then had the entire garden redone professionally...which leaves issue 3, which is a much more difficult task.
 
 Enter: the plant wall!
 ![](/images/plantwall.jpg)
